@@ -1,0 +1,40 @@
+h1{
+    color:#450545;
+    font-size: 40px;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: aquamarine;
+}
+form{
+   background: white;
+   margin:50px auto;
+   max-width: 600px;
+   text-align: center;
+   padding: 30px;
+   border-radius: 10px;
+   box-shadow: 5px 5px 36px #918e8e;
+}
+label{
+    font-size: 20px;
+}
+button{
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 20px;
+    color: #450545;
+    background: #cfc61b;
+    cursor: pointer;
+}
+p{
+   font-size: 30px; 
+   color:#450545;
+}
+#textBox{
+    border-radius: 5px;
+    width: 50%;
+    padding: 10px;
+    font-size: 20px;
+    border: 1px solid #939090;
+    margin-bottom: 15px;
+}
